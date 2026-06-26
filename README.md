@@ -1,5 +1,7 @@
 # intern_pos_emailer
 
+Forked from https://github.com/vatsalm30/internship_emailer
+
 A bot that **runs daily on GitHub Actions** and **emails you** **new US
 software / quant / consulting internship openings** (Summer & Spring / off-cycle).
 It pulls from community internship aggregators and directly from company career
