@@ -2,9 +2,9 @@ name: Daily internship digest
 
 on:
   schedule:
-    # 13:00 UTC ~= 9:00 AM US Eastern (8:00 AM during standard time).
+    # Run at 12 AM, 3 PM, and 7 PM UTC
     # GitHub cron can be delayed under load; that's fine for a daily digest.
-    - cron: "0 13 * * *"
+    - cron: "0 0,15,19 * * *"
   workflow_dispatch:
     # Manual trigger from the Actions tab — use it to test or to keep the
     # schedule alive (GitHub disables crons after 60 days of repo inactivity).
