@@ -87,8 +87,9 @@ That's the whole setup — email is free and needs no other accounts.
 3. (Optional) Run `python -m src.main --seed` locally once and commit the updated
    `data/seen_jobs.json`, so your first scheduled email is a small delta rather than
    the whole backlog.
-4. The workflow `.github/workflows/daily.yml` runs at **13:00 UTC daily** and also
-   on-demand from the **Actions tab** (`workflow_dispatch`, with a dry-run toggle).
+4. The workflow `.github/workflows/daily.yml` runs at **11:17 AM, 3:17 PM, and
+   8:17 PM ET** and also on-demand from the **Actions tab** (`workflow_dispatch`,
+   with a dry-run toggle).
 5. Each run commits the updated `data/seen_jobs.json` back to the repo, so the bot
    remembers what it already sent.
 
@@ -96,7 +97,8 @@ Notes:
 - Private-repo Actions get 2,000 free minutes/month; a run is ~1–2 min → effectively free.
 - GitHub disables scheduled workflows after **60 days of no repo activity** — the daily
   state commit normally counts, but you can also re-trigger manually to keep it alive.
-- Adjust the time by editing the `cron:` line (it's in UTC).
+- Adjust the time by editing the UTC `cron:` entries and the Eastern-time gate in
+  `.github/workflows/daily.yml`.
 
 ## Tuning
 - **`config/companies.yaml`** — add companies by ATS + token. Quant firms and
