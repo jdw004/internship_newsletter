@@ -39,6 +39,13 @@ sms:
   # don't send an SMS unless at least this many new jobs (avoids paying for tiny alerts)
   min_jobs: 1
 
+# Discord webhook digest. Add DISCORD_WEBHOOK_URL as a GitHub Actions secret.
+discord:
+  enabled: true
+  username: "Intern Alert"
+  max_jobs: 15
+  timeout_seconds: 10
+
 # If true, send nothing on days with zero new jobs (recommended — no noise).
 suppress_when_empty: true
 

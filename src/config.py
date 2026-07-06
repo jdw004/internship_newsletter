@@ -68,5 +68,6 @@ def secrets() -> dict[str, str]:
         "TWILIO_AUTH_TOKEN",
         "TWILIO_FROM",
         "SMS_TO",
+        "DISCORD_WEBHOOK_URL",
     ]
     return {k: os.environ.get(k, "") for k in keys}
