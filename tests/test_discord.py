@@ -19,7 +19,7 @@ def test_build_body_includes_jobs_and_urls():
     body = D.build_body(jobs)
     assert "**2 new internship posting(s)**" in body
     assert "Acme - SWE Intern [New York, NY]" in body
-    assert "https://example.com/Acme" in body
+    assert "<https://example.com/Acme>" in body
     assert "Beta - SWE Intern" in body
 
 

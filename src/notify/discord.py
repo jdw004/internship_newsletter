@@ -44,7 +44,7 @@ def build_body(
         location_text = f" [{location}]" if location else ""
         item = [
             f"- {company} - {title}{location_text}",
-            f"  {job.url}",
+            f"  <{job.url}>",
         ]
         remaining_after_item = len(jobs) - shown - 1
         footer = f"\n...and {remaining_after_item} more." if remaining_after_item else ""
