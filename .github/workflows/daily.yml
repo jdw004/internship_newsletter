@@ -107,6 +107,8 @@ jobs:
           if ! git diff --quiet -- data/seen_jobs.json; then
             git add data/seen_jobs.json
             git commit -m "chore: update seen jobs state [skip ci]"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
             git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
           else
             echo "No state changes to commit."
