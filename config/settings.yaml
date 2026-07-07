@@ -42,7 +42,7 @@ sms:
 # Discord webhook digest. Add DISCORD_WEBHOOK_URL as a GitHub Actions secret.
 discord:
   enabled: true
-  username: "Intern Alert"
+  username: "internship bot"
   max_jobs: 15
   timeout_seconds: 10
 

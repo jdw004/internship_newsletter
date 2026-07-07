@@ -46,3 +46,27 @@ def test_build_body_stays_under_discord_limit():
 
 def test_send_discord_skips_without_webhook():
     assert not D.send_discord([_job("Acme")], {}, {})
+
+
+def test_send_discord_uses_configured_username(monkeypatch):
+    captured = {}
+
+    def fake_post(url, json, timeout):
+        captured["url"] = url
+        captured["json"] = json
+        captured["timeout"] = timeout
+
+        class Response:
+            status_code = 204
+            text = ""
+
+        return Response()
+
+    monkeypatch.setattr(D.requests, "post", fake_post)
+
+    assert D.send_discord(
+        [_job("Acme")],
+        {"DISCORD_WEBHOOK_URL": "https://example.com/webhook"},
+        {"username": "internship bot"},
+    )
+    assert captured["json"]["username"] == "internship bot"
