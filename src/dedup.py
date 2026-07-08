@@ -40,10 +40,17 @@ def new_jobs(jobs: list[Job], state: dict[str, dict]) -> list[Job]:
     seen_now: set[str] = set()
     out: list[Job] = []
     for job in jobs:
-        jid = job.job_id
-        if jid in state or jid in seen_now:
+        legacy_id = job.job_id
+        dedup_id = job.dedup_id
+        if (
+            dedup_id in state
+            or legacy_id in state
+            or dedup_id in seen_now
+            or legacy_id in seen_now
+        ):
             continue
-        seen_now.add(jid)
+        seen_now.add(dedup_id)
+        seen_now.add(legacy_id)
         out.append(job)
     return out
 
@@ -54,7 +61,7 @@ def update_state(
     today = today or datetime.now().date()
     iso = today.isoformat()
     for job in jobs:
-        state[job.job_id] = {
+        state[job.dedup_id] = {
             "first_seen": iso,
             "company": job.company,
             "title": job.title,

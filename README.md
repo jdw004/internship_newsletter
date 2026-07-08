@@ -12,7 +12,7 @@ already shown you, and only alerts on **new** postings.
 ```
 sources (github lists + Greenhouse/Lever/Ashby/Workday)
    → normalize → filter (internship · season · category · US)
-   → dedup vs data/seen_jobs.json
+   → dedup vs data/seen_jobs.json (using normalized job links)
    → email digest (Gmail) + Discord webhook
    → commit updated state back to the repo
 ```
