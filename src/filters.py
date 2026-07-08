@@ -39,6 +39,10 @@ def _contains_any(text: str, terms: Iterable[str]) -> bool:
     return any(term in text for term in terms)
 
 
+def _matches_any_pattern(text: str, patterns: Iterable[str]) -> bool:
+    return any(re.search(pattern, text) for pattern in patterns)
+
+
 @lru_cache(maxsize=8)
 def _loc_regex(terms: tuple[str, ...]):
     """Compile location terms into one alternation that won't match inside a
@@ -83,10 +87,16 @@ def is_internship(title_lc: str, role_cfg: dict) -> bool:
     # Hard seniority excludes never co-occur with a genuine internship.
     hard_excludes = [
         e.lower()
-        for e in role_cfg.get("exclude_terms", [])
+        for e in (
+            role_cfg.get("global_exclude_terms", [])
+            or role_cfg.get("exclude_terms", [])
+        )
         if e.lower() not in _FULLTIME_VARIANTS
     ]
     if _contains_any(title_lc, hard_excludes):
+        return False
+    global_patterns = role_cfg.get("global_exclude_patterns", []) or []
+    if global_patterns and _matches_any_pattern(title_lc, global_patterns):
         return False
     return True
 

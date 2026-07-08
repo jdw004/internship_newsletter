@@ -31,6 +31,11 @@ role:
     - "full-time" # only excluded when no internship term present (see code)
     - "full time"
 
+  # Regex-based hard excludes. Useful for abbreviations like "Sr." without
+  # accidentally matching unrelated substrings.
+  global_exclude_patterns:
+    - "\\bsr(?:\\.|\\b)"
+
   # Seasons we accept. A job's season is detected from tags or title.
   # Empty list = accept any season.
   seasons:

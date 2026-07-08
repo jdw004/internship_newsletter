@@ -6,6 +6,7 @@ import hashlib
 import re
 from datetime import date
 from typing import Optional
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from pydantic import BaseModel, Field
 
@@ -16,6 +17,42 @@ Category = str  # one of: "swe", "quant", "consulting", "other"
 def normalize_title(title: str) -> str:
     """Lowercase + collapse whitespace, for stable IDs and matching."""
     return re.sub(r"\s+", " ", (title or "").strip().lower())
+
+
+_TRACKING_QUERY_KEYS = {
+    "fbclid",
+    "gclid",
+    "igshid",
+    "mkt_tok",
+    "ref",
+    "referrer",
+    "source",
+    "sourceid",
+    "utm_campaign",
+    "utm_content",
+    "utm_medium",
+    "utm_source",
+    "utm_term",
+}
+
+
+def normalize_url(url: str) -> str:
+    """Canonicalize a job URL for deduping.
+
+    Keeps the actual destination but drops fragments and common tracking query
+    parameters so the same posting does not look different across referrers.
+    """
+    if not url:
+        return ""
+    parts = urlsplit(url.strip())
+    query_pairs = parse_qsl(parts.query, keep_blank_values=True)
+    kept_pairs = [
+        (k, v)
+        for k, v in query_pairs
+        if k.lower() not in _TRACKING_QUERY_KEYS
+    ]
+    query = urlencode(kept_pairs, doseq=True)
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), parts.path, query, ""))
 
 
 class Job(BaseModel):
@@ -46,6 +83,12 @@ class Job(BaseModel):
     def job_id(self) -> str:
         """Stable id used for dedup. Based on company + normalized title + url."""
         basis = f"{self.company.strip().lower()}|{normalize_title(self.title)}|{self.url.strip()}"
+        return hashlib.sha1(basis.encode("utf-8")).hexdigest()[:16]
+
+    @property
+    def dedup_id(self) -> str:
+        """Workflow dedup key based on company + title + normalized job link."""
+        basis = f"{self.company.strip().lower()}|{normalize_title(self.title)}|{normalize_url(self.url)}"
         return hashlib.sha1(basis.encode("utf-8")).hexdigest()[:16]
 
 

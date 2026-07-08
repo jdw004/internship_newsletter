@@ -42,6 +42,11 @@ def test_fulltime_senior_role_rejected():
     assert not passes(j, F)
 
 
+def test_sr_title_rejected():
+    j = _job("Sr. Software Engineer Intern", ["San Francisco, CA"])
+    assert not passes(j, F)
+
+
 def test_new_grad_fulltime_rejected():
     j = _job("Software Engineer, New Grad", ["Seattle, WA"])
     # no internship term -> rejected
