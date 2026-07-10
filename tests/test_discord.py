@@ -18,9 +18,9 @@ def test_build_body_includes_jobs_and_urls():
     jobs = [_job("Acme", locations=["New York, NY"]), _job("Beta")]
     body = D.build_body(jobs)
     assert "**2 new internship posting(s)**" in body
-    assert "Acme - SWE Intern [New York, NY]" in body
-    assert "<https://example.com/Acme>" in body
+    assert "Acme - SWE Intern [New York, NY] [Link](https://example.com/Acme)" in body
     assert "Beta - SWE Intern" in body
+    assert "[Link](https://example.com/Beta)" in body
 
 
 def test_build_body_caps_job_count():

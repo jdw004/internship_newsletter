@@ -43,8 +43,7 @@ def _build_body_for_jobs(
         location = _one_line(job.location_str, 120)
         location_text = f" [{location}]" if location else ""
         item = [
-            f"- {company} - {title}{location_text}",
-            f"  <{job.url}>",
+            f"- {company} - {title}{location_text} [Link]({job.url})",
         ]
         candidate = "\n".join(lines + item)
         if len(candidate) > max_chars:
