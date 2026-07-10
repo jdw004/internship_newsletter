@@ -19,8 +19,7 @@ def test_build_body_includes_jobs_and_urls():
     body = D.build_body(jobs)
     assert "**2 new internship posting(s)**" in body
     assert "Acme - SWE Intern [New York, NY] [Link](https://example.com/Acme)" in body
-    assert "Beta - SWE Intern" in body
-    assert "[Link](https://example.com/Beta)" in body
+    assert "Beta - SWE Intern [Link](https://example.com/Beta)" in body
 
 
 def test_build_body_caps_job_count():
@@ -85,6 +84,7 @@ def test_send_discord_uses_configured_username(monkeypatch):
         {"username": "internship bot"},
     )
     assert captured["json"]["username"] == "internship bot"
+    assert captured["json"]["flags"] == D.SUPPRESS_EMBEDS_FLAG
 
 
 def test_send_discord_posts_multiple_chunks(monkeypatch):
@@ -111,4 +111,5 @@ def test_send_discord_posts_multiple_chunks(monkeypatch):
     assert all(call[0] == "https://example.com/webhook" for call in calls)
     assert [call[1]["content"] for call in calls] == ["chunk-1", "chunk-2", "chunk-3"]
     assert all(call[1]["username"] == "internship bot" for call in calls)
+    assert all(call[1]["flags"] == D.SUPPRESS_EMBEDS_FLAG for call in calls)
     assert all(call[2] == 7 for call in calls)

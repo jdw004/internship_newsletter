@@ -15,6 +15,7 @@ log = logging.getLogger(__name__)
 DISCORD_CONTENT_LIMIT = 2000
 DEFAULT_MAX_CHARS = 1900
 DEFAULT_MAX_JOBS = 15
+SUPPRESS_EMBEDS_FLAG = 1 << 2
 
 
 def _one_line(value: str, limit: int) -> str:
@@ -116,6 +117,7 @@ def send_discord(jobs: list[Job], secrets: dict[str, str], discord_cfg: dict[str
         payload: dict[str, Any] = {
             "content": body,
             "allowed_mentions": {"parse": []},
+            "flags": SUPPRESS_EMBEDS_FLAG,
         }
         if username:
             payload["username"] = str(username)
