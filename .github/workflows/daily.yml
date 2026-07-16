@@ -2,14 +2,14 @@ name: Daily internship digest
 
 on:
   schedule:
-    # GitHub cron is UTC. These slots map to 10 AM, 12 PM, 2 PM, 4 PM, and
-    # 7 PM EST year-round.
+    # GitHub cron is UTC. These slots map to 10:05 AM, 12:05 PM, 2:05 PM,
+    # 4:05 PM, and 7:05 PM EST year-round.
     # GitHub cron can be delayed under load; that's fine for a daily digest.
-    - cron: "0 15 * * *"
-    - cron: "0 17 * * *"
-    - cron: "0 19 * * *"
-    - cron: "0 21 * * *"
-    - cron: "0 0 * * *"
+    - cron: "5 15 * * *"
+    - cron: "5 17 * * *"
+    - cron: "5 19 * * *"
+    - cron: "5 21 * * *"
+    - cron: "5 0 * * *"
   workflow_dispatch:
     # Manual trigger from the Actions tab — use it to test or to keep the
     # schedule alive (GitHub disables crons after 60 days of repo inactivity).
@@ -49,7 +49,7 @@ jobs:
           utc_date="$(date -u +'%Y-%m-%d')"
           eastern_time="$(TZ=Etc/GMT+5 date -d "${utc_date} ${hour}:${minute}:00 UTC" +'%H:%M')"
           case "$eastern_time" in
-            10:00|12:00|14:00|16:00|19:00)
+            10:05|12:05|14:05|16:05|19:05)
               echo "should_run=true" >> "$GITHUB_OUTPUT"
               ;;
             *)
