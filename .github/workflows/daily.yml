@@ -2,15 +2,14 @@ name: Daily internship digest
 
 on:
   schedule:
-    # GitHub cron is UTC. Include both EDT and EST equivalents, then gate the
-    # run job so the bot runs at 11:17 AM, 3:17 PM, and 8:17 PM ET year-round.
+    # GitHub cron is UTC. These slots map to 10 AM, 12 PM, 2 PM, 4 PM, and
+    # 7 PM EST year-round.
     # GitHub cron can be delayed under load; that's fine for a daily digest.
-    - cron: "17 0 * * *"
-    - cron: "17 1 * * *"
-    - cron: "17 15 * * *"
-    - cron: "17 16 * * *"
-    - cron: "17 19 * * *"
-    - cron: "17 20 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 17 * * *"
+    - cron: "0 19 * * *"
+    - cron: "0 21 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
     # Manual trigger from the Actions tab — use it to test or to keep the
     # schedule alive (GitHub disables crons after 60 days of repo inactivity).
@@ -33,7 +32,7 @@ jobs:
     outputs:
       should_run: ${{ steps.time.outputs.should_run }}
     steps:
-      - name: Check Eastern run time
+      - name: Check EST run time
         id: time
         shell: bash
         run: |
@@ -48,14 +47,14 @@ jobs:
           # Use the scheduled UTC slot, not runner wall-clock time, because
           # GitHub can start scheduled workflows late.
           utc_date="$(date -u +'%Y-%m-%d')"
-          eastern_time="$(TZ=America/New_York date -d "${utc_date} ${hour}:${minute}:00 UTC" +'%H:%M')"
+          eastern_time="$(TZ=Etc/GMT+5 date -d "${utc_date} ${hour}:${minute}:00 UTC" +'%H:%M')"
           case "$eastern_time" in
-            11:17|15:17|20:17)
+            10:00|12:00|14:00|16:00|19:00)
               echo "should_run=true" >> "$GITHUB_OUTPUT"
               ;;
             *)
               echo "should_run=false" >> "$GITHUB_OUTPUT"
-              echo "Skipping scheduled run at ${eastern_time} ET."
+              echo "Skipping scheduled run at ${eastern_time} EST."
               ;;
           esac
 
