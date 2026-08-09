@@ -90,8 +90,9 @@ Discord.
 3. (Optional) Run `python -m src.main --seed` locally once and commit the updated
    `data/seen_jobs.json`, so your first scheduled email is a small delta rather than
    the whole backlog.
-4. The workflow `.github/workflows/daily.yml` runs at **10:05 AM, 12:05 PM,
-   2:05 PM, 4:05 PM, and 7:05 PM EST** and also on-demand from the **Actions
+4. The workflow `.github/workflows/daily.yml` runs every **1 1/2 hours from
+   9:00 AM through 6:00 PM EST** (9:00, 10:30, 12:00, 1:30, 3:00, 4:30, and
+   6:00 PM) and also on-demand from the **Actions
    tab** (`workflow_dispatch`, with a dry-run toggle).
 5. Each run commits the updated `data/seen_jobs.json` back to the repo, so the bot
    remembers what it already sent.
