@@ -1,9 +1,27 @@
 {
+  "00268493b377b98d": {
+    "company": "N1",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineer Intern (Fullstack)",
+    "url": "https://jobs.ashbyhq.com/N1/298585c3-96b1-4728-8d37-31482f85a064"
+  },
   "003f9977ea47ee6f": {
     "company": "Tesla",
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern, Vehicle UI Development",
     "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063"
+  },
+  "004ca64da695f55f": {
+    "company": "Replit",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
+  },
+  "00e03ea17ce0e496": {
+    "company": "Annapurna Labs (U.S.) Inc. - D63",
+    "first_seen": "2026-08-27",
+    "title": "Software Development Engineer Intern,",
+    "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
   },
   "012e804c6380e7cf": {
     "company": "PlusAI",
@@ -17,11 +35,23 @@
     "title": "Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
   },
+  "01f19ebed4d22109": {
+    "company": "Rilla",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineering Intern - 2027 Gr",
+    "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5"
+  },
   "020c71aaa1c7c7cb": {
     "company": "BorgWarner",
     "first_seen": "2026-06-26",
     "title": "Software Engineering Intern (Year-Round)",
     "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1"
+  },
+  "025670fea9f87f34": {
+    "company": "AMD",
+    "first_seen": "2026-08-21",
+    "title": "2027 Masters Software Engineer Intern",
+    "url": "https://campus-amd.icims.com/jobs/91180/login"
   },
   "02cc598ab63e219b": {
     "company": "Astranis",
@@ -29,11 +59,23 @@
     "title": "Software Engineer Intern - Enterprise",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
   },
+  "032cf3fa3ea2b869": {
+    "company": "Disney",
+    "first_seen": "2026-08-28",
+    "title": "Software Engineering Intern, Spring 2027",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599"
+  },
   "03360bbbf82a4e7a": {
     "company": "Apptronik",
     "first_seen": "2026-07-27",
     "title": "Software Engineer Intern - ML Systems",
     "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004"
+  },
+  "035cebd8d4228a73": {
+    "company": "Northwood Space",
+    "first_seen": "2026-08-29",
+    "title": "Embedded Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
   },
   "0419933c1a4622a7": {
     "company": "Tesla",
@@ -161,6 +203,12 @@
     "title": "Software Engineer Intern, Transaction Platform",
     "url": "https://lifeattiktok.com/search/7669943120351906053"
   },
+  "09e4b74d41079d50": {
+    "company": "Diversified Automation",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Co-op",
+    "url": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
+  },
   "0a0057a9019ce7ce": {
     "company": "Circleback",
     "first_seen": "2026-06-26",
@@ -203,11 +251,23 @@
     "title": "Software Developer Intern",
     "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808"
   },
+  "0ad925e56dd1c21f": {
+    "company": "Chicago Trading Company",
+    "first_seen": "2026-08-19",
+    "title": "Quant Trading Internship - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005"
+  },
   "0b1b98252e08432a": {
     "company": "Cadence",
     "first_seen": "2026-07-08",
     "title": "Software Engineering Intern",
     "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334"
+  },
+  "0b91a64dd3317c32": {
+    "company": "SoloPulse",
+    "first_seen": "2026-08-11",
+    "title": "Systems Engineering Intern",
+    "url": "https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51"
   },
   "0baedd82a32c9651": {
     "company": "TikTok",
@@ -232,6 +292,24 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineering Intern",
     "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19501"
+  },
+  "0cc4b9c61e4dec26": {
+    "company": "Sentry",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineer, Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1"
+  },
+  "0d34674872184529": {
+    "company": "Epic Games",
+    "first_seen": "2026-08-26",
+    "title": "Gameplay Programmer Intern",
+    "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004"
+  },
+  "0d5651d938d7ac9d": {
+    "company": "Rivian and Volkswagen Group Technologies",
+    "first_seen": "2026-08-20",
+    "title": "Software Engineering Intern - Connect",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92"
   },
   "0db732ca7deb11e7": {
     "company": "HP Inc",
@@ -269,6 +347,12 @@
     "title": "Quantitative Development & Strategy Intern, Summer 2027",
     "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"
   },
+  "0ffdd544232e616f": {
+    "company": "Cloudflare",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8052785"
+  },
   "1018967370887995": {
     "company": "TikTok",
     "first_seen": "2026-08-04",
@@ -280,6 +364,18 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern/Co-Op - Fall",
     "url": "https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply"
+  },
+  "10a850368303a692": {
+    "company": "Databricks",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002"
+  },
+  "1164deffdf7fec63": {
+    "company": "LPL Financial",
+    "first_seen": "2026-08-11",
+    "title": "Summer Intern 2027- Platform Engineer",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Platform-Engineer_R-052920-1"
   },
   "11de8471e4fb57f1": {
     "company": "GDIT",
@@ -305,6 +401,18 @@
     "title": "Software Engineer Intern - Site Contr",
     "url": "https://www.tesla.com/careers/search/job/272615"
   },
+  "132f844e7e946460": {
+    "company": "Palo Alto Networks",
+    "first_seen": "2026-08-12",
+    "title": "Intern - Software Engineer",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011602"
+  },
+  "1362b82ad4e58e3c": {
+    "company": "RTX",
+    "first_seen": "2026-08-31",
+    "title": "TCMA Systems Engineering Intern - Sum",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372"
+  },
   "13a6569e16772405": {
     "company": "Microsoft",
     "first_seen": "2026-08-04",
@@ -322,6 +430,12 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002"
+  },
+  "1479710e5ebc7080": {
+    "company": "Rivian and Volkswagen Group Technologies",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineering Intern - Embedde",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff"
   },
   "1562f19a8cc080e9": {
     "company": "Robert Bosch LLC",
@@ -346,6 +460,12 @@
     "first_seen": "2026-07-05",
     "title": "Software Engineer Intern - Software E",
     "url": "https://www.tesla.com/careers/search/job/271209"
+  },
+  "15cffc62fe66d11d": {
+    "company": "Conagra Brands",
+    "first_seen": "2026-08-21",
+    "title": "Software Development Internship - Sum",
+    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787"
   },
   "1600266f6b2d7a34": {
     "company": "Roblox",
@@ -431,6 +551,12 @@
     "title": "Web Application Developer Intern",
     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843"
   },
+  "19b2a0283e2e90e8": {
+    "company": "Hermeus",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineering Intern (Command",
+    "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67"
+  },
   "19c02475abc70750": {
     "company": "Uline",
     "first_seen": "2026-08-03",
@@ -448,6 +574,12 @@
     "first_seen": "2026-06-26",
     "title": "Quantitative Research Internship – Ma",
     "url": "https://careers-sig.icims.com/jobs/10819/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job"
+  },
+  "1b0fb945a7588bdc": {
+    "company": "RTX",
+    "first_seen": "2026-08-27",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1"
   },
   "1b1085b8cd658bfc": {
     "company": "TikTok",
@@ -479,6 +611,12 @@
     "title": "Software Engineer Intern - Monetizati",
     "url": "https://lifeattiktok.com/search/7532460740410738952"
   },
+  "1c7f5695ebb747e0": {
+    "company": "Zipline",
+    "first_seen": "2026-08-26",
+    "title": "Embedded Software Engineer Intern (Sp",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974890003"
+  },
   "1c9901d883e1c7a7": {
     "company": "RTX",
     "first_seen": "2026-08-04",
@@ -491,6 +629,12 @@
     "title": "Quantitative Trader Intern",
     "url": "https://www.janestreet.com/join-jane-street/position/8617344002/"
   },
+  "1d623be6ad039d6d": {
+    "company": "Palantir",
+    "first_seen": "2026-08-14",
+    "title": "Software Engineer, Internship - Defen",
+    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"
+  },
   "1dad7d498261b9f6": {
     "company": "Tesla",
     "first_seen": "2026-06-26",
@@ -502,6 +646,12 @@
     "first_seen": "2026-06-26",
     "title": "Machine Learning Engineer Intern - Ti",
     "url": "https://lifeattiktok.com/search/7557122323507349778"
+  },
+  "1e01add6c91126ee": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineer Intern (Traffic Inf",
+    "url": "https://joinbytedance.com/search/7672626707586746629"
   },
   "1e2034c4dd5be1cd": {
     "company": "Rendezvous Robotics",
@@ -520,6 +670,18 @@
     "first_seen": "2026-07-30",
     "title": "Software Developer Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
+  },
+  "1e3d415ec58e7190": {
+    "company": "Datadog",
+    "first_seen": "2026-08-17",
+    "title": "Software Engineering Intern (Winter)",
+    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
+  },
+  "1e831f86b4cb74f5": {
+    "company": "Parsons",
+    "first_seen": "2026-08-31",
+    "title": "Software Developer Intern",
+    "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565"
   },
   "1fbbe0c81eed8534": {
     "company": "Copart",
@@ -544,6 +706,12 @@
     "first_seen": "2026-06-26",
     "title": "Quantitative Research Internship - Ph",
     "url": "https://careers-sig.icims.com/jobs/10817/quantitative-research-internship---phd%3a-summer-2027/job"
+  },
+  "21058af57b5779b4": {
+    "company": "Uncountable",
+    "first_seen": "2026-08-19",
+    "title": "Full-Stack Intern",
+    "url": "https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae"
   },
   "23041ff8578be988": {
     "company": "Voloridge Investment Management",
@@ -599,6 +767,12 @@
     "title": "Software Engineering Intern",
     "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1"
   },
+  "2729e85071c1dc5f": {
+    "company": "Verkada",
+    "first_seen": "2026-08-25",
+    "title": "Frontend Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
+  },
   "27a077973ec33ef2": {
     "company": "Neighborly",
     "first_seen": "2026-06-26",
@@ -616,6 +790,18 @@
     "first_seen": "2026-06-26",
     "title": "Quantitative Researcher Intern",
     "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295"
+  },
+  "284c03ad90432e0d": {
+    "company": "American Express",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679"
+  },
+  "2888a6f2fc829f85": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-18",
+    "title": "Systems Engineering Co-op - Mechanica",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Spring-2027_R5030103-1"
   },
   "28d389a3b8e09f1c": {
     "company": "D. E. Shaw",
@@ -647,6 +833,18 @@
     "title": "Software Engineer Intern (Global Paym",
     "url": "https://joinbytedance.com/search/7669774721406208261"
   },
+  "2a31cc3a4b715866": {
+    "company": "Atoms",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002"
+  },
+  "2a3890ef6d3ec10a": {
+    "company": "Mechanize",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e"
+  },
   "2aad8387669a0bb1": {
     "company": "Tesla",
     "first_seen": "2026-06-26",
@@ -677,11 +875,29 @@
     "title": "Software Engineering Co-op",
     "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013"
   },
+  "2c410edde3074e2f": {
+    "company": "Ancestry",
+    "first_seen": "2026-08-26",
+    "title": "Software Engineer – Observability, Co-op",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
+  },
   "2ca7ab9a350507d0": {
     "company": "Dover",
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern",
     "url": "https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033/?ats=successfactors"
+  },
+  "2cd1ba18548939cf": {
+    "company": "Epic Games",
+    "first_seen": "2026-08-21",
+    "title": "Gameplay Programmer Intern",
+    "url": "https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004"
+  },
+  "2d13904590aad3a6": {
+    "company": "Kognitos",
+    "first_seen": "2026-08-26",
+    "title": "Software Engineer Intern (AI-Native)",
+    "url": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
   },
   "2d74cdab83d5b471": {
     "company": "TikTok",
@@ -719,11 +935,41 @@
     "title": "Quantitative Research Intern",
     "url": "https://akunacapital.com/careers/job/8036614/?gh_jid=8036614"
   },
+  "2fc9cf6c6072276c": {
+    "company": "Microsoft",
+    "first_seen": "2026-08-24",
+    "title": "Software Engineering Intern - Azure Core",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556971803"
+  },
   "2fceea127c287685": {
     "company": "Tesla",
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern, Information Security",
     "url": "https://www.tesla.com/careers/search/job/254590"
+  },
+  "31552357213ad9f2": {
+    "company": "Booz Allen Hamilton",
+    "first_seen": "2026-08-28",
+    "title": "AI Software Developer Intern",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115"
+  },
+  "318deae44e915cb4": {
+    "company": "Monolithic Power Systems",
+    "first_seen": "2026-08-24",
+    "title": "AI Developer Intern",
+    "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756"
+  },
+  "31b5a549f1bd6989": {
+    "company": "Brunswick",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
+  },
+  "32c144953215013c": {
+    "company": "Exa",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
   },
   "32e374af1a061dc9": {
     "company": "Uber",
@@ -736,6 +982,12 @@
     "first_seen": "2026-07-01",
     "title": "Business Analyst II  (Intern) - Unite",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Business-Analyst-II---Intern----United-States-ENG-CHG-ETR_2017713"
+  },
+  "33d9ea9b3f2b282a": {
+    "company": "Google",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Intern, MS, Summ",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742"
   },
   "33e33fdf24cab9e1": {
     "company": "IMC Trading",
@@ -785,6 +1037,12 @@
     "title": "Software Engineer Intern, Mobile",
     "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421"
   },
+  "359300b1217a4ef3": {
+    "company": "Millennium",
+    "first_seen": "2026-08-21",
+    "title": "Quantitative Developer Intern",
+    "url": "https://career.mlp.com/careers/job/755957819661"
+  },
   "3594a2cd3f7a34c8": {
     "company": "Five Rings",
     "first_seen": "2026-07-14",
@@ -808,6 +1066,18 @@
     "first_seen": "2026-07-05",
     "title": "Embedded Software Engineer Intern - E",
     "url": "https://www.tesla.com/careers/search/job/266999"
+  },
+  "36085af0ca0f61cc": {
+    "company": "Intel",
+    "first_seen": "2026-08-20",
+    "title": "Software Engineer Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491"
+  },
+  "3629bdbcdcbcc803": {
+    "company": "Microsoft",
+    "first_seen": "2026-08-21",
+    "title": "AI Software Engineering Intern - Edge",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
   },
   "36351cfbfe5a3b9d": {
     "company": "GE Aerospace",
@@ -833,6 +1103,12 @@
     "title": "Campus Systems Engineer Intern",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788"
   },
+  "369c5e4e57840b2b": {
+    "company": "CACI",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Co-op - Spring &",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1"
+  },
   "36bcbd38910bef55": {
     "company": "GE Aerospace",
     "first_seen": "2026-06-27",
@@ -844,6 +1120,18 @@
     "first_seen": "2026-07-05",
     "title": "Systems Engineering Intern",
     "url": "https://jobs.lever.co/plus-2/43bad137-b976-4dfa-b72d-96918929e9db/apply"
+  },
+  "37cf31fda21f036f": {
+    "company": "FLIR Systems",
+    "first_seen": "2026-08-14",
+    "title": "NHRC Software Engineering Internship",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
+  },
+  "385149f81e722912": {
+    "company": "American Express",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784"
   },
   "386086313dc80587": {
     "company": "NVIDIA",
@@ -863,11 +1151,23 @@
     "title": "Machine Learning Engineer Intern - E-",
     "url": "https://jobs.bytedance.com/en/position/7543005612200970503/detail"
   },
+  "3a2787c9a5d047b8": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-15",
+    "title": "Software Engineer Intern (Global Paym",
+    "url": "https://joinbytedance.com/search/7668315137242351925"
+  },
   "3a27fec2114e66ac": {
     "company": "Schweitzer Engineering Laboratories",
     "first_seen": "2026-07-24",
     "title": "Software Engineer Intern",
     "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321"
+  },
+  "3a619345c7fd1646": {
+    "company": "Zipline",
+    "first_seen": "2026-08-25",
+    "title": "Embedded Software Engineer Intern (Sp",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
   },
   "3a80288ac3478ca8": {
     "company": "Akuna Capital",
@@ -911,6 +1211,12 @@
     "title": "Software Engineering Intern (Summer 2",
     "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f"
   },
+  "3c9ff2e6c4ebd80c": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-21",
+    "title": "Machine Learning Engineer Intern (E-C",
+    "url": "https://joinbytedance.com/search/7675478684795881781"
+  },
   "3cca63e68024dfe4": {
     "company": "GE Aerospace",
     "first_seen": "2026-07-03",
@@ -922,6 +1228,12 @@
     "first_seen": "2026-06-26",
     "title": "Modeling & Simulation Software Engineering Intern",
     "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d"
+  },
+  "3d76ba73072aa4c1": {
+    "company": "Notion",
+    "first_seen": "2026-08-14",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
   },
   "3d8221b4262cbff7": {
     "company": "Susquehanna Investment Group",
@@ -940,6 +1252,18 @@
     "first_seen": "2026-07-24",
     "title": "Forward Deployed Software Engineer Intern",
     "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
+  },
+  "3dfc57678b7f2c0f": {
+    "company": "N1",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineer Intern (Backend, Rust)",
+    "url": "https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6"
+  },
+  "3e0f85c604080f1b": {
+    "company": "Verkada",
+    "first_seen": "2026-08-25",
+    "title": "Backend Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
   },
   "3e24507bd7bcb0af": {
     "company": "Tesla",
@@ -989,6 +1313,24 @@
     "title": "Intern – Software Engineering",
     "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Sunnyvale---California-USA/Intern---Software-Engineering_R-53546-2026"
   },
+  "41c2c1ecee32efe2": {
+    "company": "BP",
+    "first_seen": "2026-08-25",
+    "title": "Summer Intern – Supply, Trading, & Sh",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1"
+  },
+  "41d19a363eccedcf": {
+    "company": "Voloridge Investment Management",
+    "first_seen": "2026-08-19",
+    "title": "Quantitative Research Intern 2027",
+    "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009"
+  },
+  "41e18a4c2b2a177d": {
+    "company": "Databricks",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern (2027 Start) - Winter",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+  },
   "41f161eb6742c6ef": {
     "company": "Cadence",
     "first_seen": "2026-06-26",
@@ -1000,6 +1342,12 @@
     "first_seen": "2026-06-26",
     "title": "Software Developer Intern, Integration Platforms",
     "url": "https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037"
+  },
+  "42ad59256b2666f2": {
+    "company": "Bosch Group",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Intern (8 months",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849"
   },
   "43473b31514cd449": {
     "company": "SpaceX",
@@ -1024,6 +1372,12 @@
     "first_seen": "2026-08-04",
     "title": "Software Engineer Intern, Trust and Safety-Engineering",
     "url": "https://lifeattiktok.com/search/7662700594251958581"
+  },
+  "440b3aed4335ac47": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-30",
+    "title": "System Software Engineer (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500"
   },
   "4452f4fe9e9c6411": {
     "company": "Rivian and Volkswagen Group Technologies",
@@ -1055,6 +1409,12 @@
     "title": "Software Engineer, Internship - Defense Tech",
     "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"
   },
+  "44e777fca81ca386": {
+    "company": "Affirm",
+    "first_seen": "2026-08-13",
+    "title": "Software Engineer II, Fullstack (International)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854835003"
+  },
   "454029b007e82e58": {
     "company": "NVIDIA",
     "first_seen": "2026-06-26",
@@ -1072,6 +1432,12 @@
     "first_seen": "2026-07-01",
     "title": "Software Engineer Intern - Software E",
     "url": "https://www.tesla.com/careers/search/job/272937"
+  },
+  "468e2f74d7c2507f": {
+    "company": "Intel",
+    "first_seen": "2026-08-20",
+    "title": "Software Engineer Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489"
   },
   "469c439917f7035a": {
     "company": "kos.ai",
@@ -1097,17 +1463,35 @@
     "title": "Software Engineer, International",
     "url": "https://jobs.ashbyhq.com/ramp/be75224c-854c-4a55-9da5-62ca2dcc09df"
   },
+  "482d96edfc019c3a": {
+    "company": "Zipline",
+    "first_seen": "2026-08-20",
+    "title": "Software Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7907191003"
+  },
   "489230eab3e1b556": {
     "company": "Palantir",
     "first_seen": "2026-06-29",
     "title": "Software Engineer, Internship - Infrastructure",
     "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
   },
+  "48c7bea4acf791d0": {
+    "company": "Philips",
+    "first_seen": "2026-08-28",
+    "title": "Intern – Data AI/ML Engineering – Ply",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404"
+  },
   "48c926eba35a7f0f": {
     "company": "PathAI",
     "first_seen": "2026-07-27",
     "title": "Software Engineering Co-op MLOps: Sep",
     "url": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002"
+  },
+  "49778b1425c88e9b": {
+    "company": "Verkada",
+    "first_seen": "2026-08-25",
+    "title": "Mobile Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
   },
   "4994e4c40b4e36c9": {
     "company": "NVIDIA",
@@ -1120,6 +1504,24 @@
     "first_seen": "2026-08-03",
     "title": "Machine Learning Engineer Intern",
     "url": "https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266"
+  },
+  "49afed01ce7dcd53": {
+    "company": "Salesforce",
+    "first_seen": "2026-08-28",
+    "title": "Summer 2027 Intern - Software Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
+  },
+  "49d5e60495b37b32": {
+    "company": "LPL Financial",
+    "first_seen": "2026-08-18",
+    "title": "Intern 2027- Software Engineer",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
+  },
+  "49dee01c78d68af5": {
+    "company": "RTX",
+    "first_seen": "2026-08-12",
+    "title": "Software Engineering Intern (Summer 2",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
   },
   "49e9169fd86fff6f": {
     "company": "TikTok",
@@ -1181,6 +1583,12 @@
     "title": "Quantitative Trader Intern - PhD 2026",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370"
   },
+  "4c220368acfea80b": {
+    "company": "Belvedere Trading",
+    "first_seen": "2026-08-17",
+    "title": "Quantitative Trading Intern",
+    "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab"
+  },
   "4d68a4b8f3f379d4": {
     "company": "Netsmart",
     "first_seen": "2026-08-04",
@@ -1199,6 +1607,12 @@
     "title": "Quantum Error Correction Research Scientist Intern - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628"
   },
+  "4e1dd940990e01b3": {
+    "company": "Brunswick",
+    "first_seen": "2026-08-28",
+    "title": "Software Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
+  },
   "4e41cf61ab2ffae1": {
     "company": "JP Morgan Chase",
     "first_seen": "2026-06-26",
@@ -1210,6 +1624,12 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern - Technical",
     "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4652887006"
+  },
+  "4eb550ebb48a9036": {
+    "company": "RE/SPEC Inc.",
+    "first_seen": "2026-08-11",
+    "title": "Student Software Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985"
   },
   "4eeb9c02cda9bf7c": {
     "company": "SpreeAI",
@@ -1228,6 +1648,18 @@
     "first_seen": "2026-08-04",
     "title": "Software Engineer Intern, Ads Interface",
     "url": "https://lifeattiktok.com/search/7669705785962727733"
+  },
+  "4fe767b660e4558b": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-19",
+    "title": "System Software Engineer – GPU and SOC (2027 RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628"
+  },
+  "50a4b49628984859": {
+    "company": "GardaWorld",
+    "first_seen": "2026-08-18",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004"
   },
   "5172bfe6d499090a": {
     "company": "TransMarket Group",
@@ -1252,6 +1684,12 @@
     "first_seen": "2026-07-27",
     "title": "Software Engineering Intern",
     "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011"
+  },
+  "528488f7a43a2f42": {
+    "company": "Freeform",
+    "first_seen": "2026-08-15",
+    "title": "Software Engineering Intern (Summer 2",
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003"
   },
   "53235f6238afa043": {
     "company": "Five Rings",
@@ -1282,6 +1720,12 @@
     "first_seen": "2026-07-24",
     "title": "Software Engineer Intern",
     "url": "https://www.janestreet.com/join-jane-street/position/8599644002/"
+  },
+  "554e3d769e5a6a4f": {
+    "company": "Schweitzer Engineering Laboratories",
+    "first_seen": "2026-08-13",
+    "title": "Software Engineering Intern (AI Focus)",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601"
   },
   "55b6a5a8939584bf": {
     "company": "IMC",
@@ -1324,6 +1768,18 @@
     "first_seen": "2026-06-26",
     "title": "Commercial UI Software Engineer Intern, Energy Engineering",
     "url": "https://www.tesla.com/careers/search/job/248805"
+  },
+  "58b64931c12b92ea": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-18",
+    "title": "Systems Engineering Intern - Electric",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027_R5030118-1"
+  },
+  "58cb826a0a095921": {
+    "company": "CACI",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Co-op - Summer &",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
   },
   "58e256c407168acd": {
     "company": "Rivian and Volkswagen Group Technologies",
@@ -1373,11 +1829,23 @@
     "title": "Software Engineering Intern",
     "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702398005"
   },
+  "5ca655c123752be3": {
+    "company": "Waymo",
+    "first_seen": "2026-08-28",
+    "title": "2027 Summer Intern, MS/PhD, Quantitat",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8163364"
+  },
   "5d54c6236b739bb5": {
     "company": "IMC",
     "first_seen": "2026-07-24",
     "title": "Quantitative Research Intern",
     "url": "https://www.imc.com/us/careers/jobs/4907399101"
+  },
+  "5d5641873adbce49": {
+    "company": "IXL Learning",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineer, Intern",
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8765770002"
   },
   "5d63215623517046": {
     "company": "TikTok",
@@ -1391,6 +1859,12 @@
     "title": "Software Engineering Intern",
     "url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607"
   },
+  "5dc9e52714d1a5d8": {
+    "company": "Verkada",
+    "first_seen": "2026-08-25",
+    "title": "Security Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
+  },
   "5e01b9801947a4aa": {
     "company": "Copart",
     "first_seen": "2026-07-30",
@@ -1403,6 +1877,12 @@
     "title": "Full Stack Engineering Intern",
     "url": "https://www.workatastartup.com/jobs/94993"
   },
+  "5e2cfad6f413459f": {
+    "company": "Persona AI",
+    "first_seen": "2026-08-21",
+    "title": "Autonomy Software Engineering Interns",
+    "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
+  },
   "5e5f25febec51cae": {
     "company": "TikTok",
     "first_seen": "2026-06-26",
@@ -1414,6 +1894,18 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern",
     "url": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c"
+  },
+  "5e7522066de9eac1": {
+    "company": "Bosch Group",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Intern (8 months",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524909"
+  },
+  "5e8d0efa4a3d2510": {
+    "company": "Microsoft",
+    "first_seen": "2026-08-19",
+    "title": "AI Software Engineering Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
   },
   "5f6d7df49834efe2": {
     "company": "Palantir Technologies",
@@ -1445,6 +1937,18 @@
     "title": "Software Engineering Intern",
     "url": "https://careers.appian.com/jobs/8041237-software-engineering-intern"
   },
+  "616fbb0d9a32055d": {
+    "company": "Draper",
+    "first_seen": "2026-08-18",
+    "title": "Full Stack Web Development Co-Op (Spr",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
+  },
+  "62e42e4f454a33ce": {
+    "company": "AMD",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.amd.com/careers-home/jobs/90891"
+  },
   "6304dff68704a528": {
     "company": "ByteDance",
     "first_seen": "2026-08-04",
@@ -1456,6 +1960,12 @@
     "first_seen": "2026-07-12",
     "title": "Machine Learning Engineer Intern",
     "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003"
+  },
+  "64d647d8f48ea20a": {
+    "company": "The Nuclear Company",
+    "first_seen": "2026-08-19",
+    "title": "Summer 2027 AI/ML Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   "64eb0d0d38af082d": {
     "company": "Jane Street",
@@ -1511,6 +2021,12 @@
     "title": "Software Engineering Intern, Embedded Systems",
     "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11"
   },
+  "68fadd62e7504148": {
+    "company": "GlobalFoundries",
+    "first_seen": "2026-08-22",
+    "title": "Quantum Technology Services Intern (S",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Quantum-Technology-Services-Intern--Summer-2027-_JR-2604439"
+  },
   "694be7b9b9136b48": {
     "company": "Palantir Technologies",
     "first_seen": "2026-07-24",
@@ -1522,6 +2038,12 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineer - Intern",
     "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineer---Intern_R52705"
+  },
+  "69b4c2b2506a7074": {
+    "company": "Salesforce",
+    "first_seen": "2026-08-28",
+    "title": "Summer 2027 Intern - Software Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
   },
   "6a02a50fcfd58ec3": {
     "company": "Magna",
@@ -1546,6 +2068,12 @@
     "first_seen": "2026-07-10",
     "title": "Campus UI Software Engineer Intern",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+  },
+  "6ab9971cd660453b": {
+    "company": "DV Group",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Commodities",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
   },
   "6adb19866ef1552b": {
     "company": "Kognitos",
@@ -1589,6 +2117,12 @@
     "title": "Software Engineer Intern, Privacy and Security",
     "url": "https://lifeattiktok.com/search/7667935739300317493"
   },
+  "6cb4c3296d6fe19a": {
+    "company": "Databricks",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern (2027 Sta",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+  },
   "6ce80a7fc765f5e4": {
     "company": "Tesla",
     "first_seen": "2026-06-26",
@@ -1612,6 +2146,12 @@
     "first_seen": "2026-07-24",
     "title": "Quantitative Researcher Intern",
     "url": "https://www.janestreet.com/join-jane-street/position/8498547002/"
+  },
+  "6dcb88e66329f832": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-20",
+    "title": "Systems Engineering Co-op - Electrica",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Spring-2027_R5030099-1"
   },
   "6dd4ee22bdec0bd6": {
     "company": "Hudson River Trading",
@@ -1649,6 +2189,36 @@
     "title": "Software Developer Intern",
     "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936"
   },
+  "6f8892dd9a8cc7df": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-11",
+    "title": "Machine Learning Engineer Intern (AML",
+    "url": "https://joinbytedance.com/search/7671291260529821957"
+  },
+  "6f8fc0d1c890f022": {
+    "company": "PathAI",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineering Co-op: September",
+    "url": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
+  },
+  "6f9e69d31ca3f2da": {
+    "company": "American Express",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Technology",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970"
+  },
+  "6fa7f992695be887": {
+    "company": "Hermeus",
+    "first_seen": "2026-08-11",
+    "title": "Flight Software Engineering Intern -",
+    "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440"
+  },
+  "700f2cf44bbf3323": {
+    "company": "Brunswick",
+    "first_seen": "2026-08-28",
+    "title": "Software Engineer Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1"
+  },
   "70121476b8d36f56": {
     "company": "TikTok",
     "first_seen": "2026-07-07",
@@ -1660,6 +2230,12 @@
     "first_seen": "2026-07-06",
     "title": "Quantitative Trader Intern",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128"
+  },
+  "707de6f6e65bfde3": {
+    "company": "American Express",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
   },
   "70db254fb20870a6": {
     "company": "Hunt Oil Company",
@@ -1715,6 +2291,18 @@
     "title": "Software Engineer Intern, Intelligent Creation-Camera",
     "url": "https://lifeattiktok.com/search/7668862422178318597"
   },
+  "7388ce19b3cb970e": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-28",
+    "title": "Machine Learning Engineer Intern (E-C",
+    "url": "https://joinbytedance.com/search/7675477254269765941"
+  },
+  "73e747f929173b91": {
+    "company": "LPL Financial",
+    "first_seen": "2026-08-18",
+    "title": "Intern 2027- Platform Engineer",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Platform-Engineer_R-052920-1"
+  },
   "740aa2e14648e985": {
     "company": "TikTok",
     "first_seen": "2026-08-04",
@@ -1732,6 +2320,12 @@
     "first_seen": "2026-08-04",
     "title": "Software Engineer Intern",
     "url": "https://lifeattiktok.com/search/7668725183121000757"
+  },
+  "74ecf55b9bd68c54": {
+    "company": "Kastle",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
   },
   "75a1509c3883c4ae": {
     "company": "Tesla",
@@ -1781,11 +2375,23 @@
     "title": "Software Engineer Intern - Python, Su",
     "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
   },
+  "78b360c82d722fc2": {
+    "company": "Point72",
+    "first_seen": "2026-08-17",
+    "title": "Quantitative Developer Intern",
+    "url": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002"
+  },
   "78d19188567cc964": {
     "company": "ByteDance",
     "first_seen": "2026-06-26",
     "title": "Software Development Engineer Intern",
     "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail"
+  },
+  "78e69400dc35a26c": {
+    "company": "BP",
+    "first_seen": "2026-09-01",
+    "title": "Summer Internship – Supply, Trading,",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370"
   },
   "7935e8e76ac28d3b": {
     "company": "Atomic Semi",
@@ -1816,6 +2422,12 @@
     "first_seen": "2026-07-02",
     "title": "Forward Deployed Software Engineer, Internship - Intel",
     "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
+  },
+  "7b75c91391ad469f": {
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-08-21",
+    "title": "Quantitative Research, Markets, Summer Internship - Analyst",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038"
   },
   "7b7a75ed58dc96e2": {
     "company": "Verkada",
@@ -1901,6 +2513,18 @@
     "title": "PhD Software Engineering Intern, Deci",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
   },
+  "7e9d3c1ff5676527": {
+    "company": "Replit",
+    "first_seen": "2026-08-15",
+    "title": "Software Engineering Intern (Summer 2",
+    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
+  },
+  "7ecf51488c76e322": {
+    "company": "Figma",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+  },
   "7f302c82b04ab7d7": {
     "company": "Synchrony",
     "first_seen": "2026-06-26",
@@ -1918,6 +2542,18 @@
     "first_seen": "2026-07-16",
     "title": "Software Engineer Intern",
     "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-21720"
+  },
+  "7f5ff1d8bef0bd13": {
+    "company": "Vertiv",
+    "first_seen": "2026-08-10",
+    "title": "Software Engineering Intern (Summer 2",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777"
+  },
+  "7fa8e981a92a4cbb": {
+    "company": "Amentum",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Intern",
+    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322"
   },
   "803954a4615c53a7": {
     "company": "Stevens Capital Management",
@@ -1943,6 +2579,12 @@
     "title": "A.I. Developer Co-Op (Boston, MA)",
     "url": "https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931"
   },
+  "81cdf5b5d08fcbc6": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-28",
+    "title": "Android Software Engineer (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408"
+  },
   "81da7269bb0d77bc": {
     "company": "Palantir",
     "first_seen": "2026-06-30",
@@ -1960,6 +2602,18 @@
     "first_seen": "2026-06-26",
     "title": "Forward Deployed Software Engineer, Internship - France",
     "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+  },
+  "826fad809bddd852": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-17",
+    "title": "Systems Engineering Co-op - Electrica",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Spring-2027_R5030096-2"
+  },
+  "829fe210acb285b8": {
+    "company": "FLIR Systems",
+    "first_seen": "2026-08-14",
+    "title": "NHRC Software Engineering Internship",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
   },
   "82effc61df130cee": {
     "company": "The Exploration Company",
@@ -1984,6 +2638,12 @@
     "first_seen": "2026-07-10",
     "title": "Software Engineering Intern",
     "url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application"
+  },
+  "83a89ad0ba612770": {
+    "company": "Zipline",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7929236003"
   },
   "83d935035b6ab6ab": {
     "company": "Tesla",
@@ -2069,6 +2729,12 @@
     "title": "Android Developer Intern (Fall 2026)",
     "url": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application"
   },
+  "87962b70e392ffc0": {
+    "company": "Crowe",
+    "first_seen": "2026-08-21",
+    "title": "Data Analytics Developer Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041"
+  },
   "87a681ebcd563fad": {
     "company": "Magna",
     "first_seen": "2026-06-26",
@@ -2099,11 +2765,29 @@
     "title": "Software Engineer Intern",
     "url": "https://www.janestreet.com/join-jane-street/position/8419303002/"
   },
+  "88cbd4fe2f2ae54c": {
+    "company": "Salesforce",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineering Intern - Future Pathways",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
+  },
   "8901663f733febfd": {
     "company": "GE Aerospace",
     "first_seen": "2026-07-03",
     "title": "Systems Engineering Co-op - Mechanica",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Avionics----US---Spring-2027---Returning-Students_R5030169-2"
+  },
+  "896936a81255386d": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-08-25",
+    "title": "2027 Software Engineering Intern- Hun",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
+  },
+  "8a28f1ae323c70ec": {
+    "company": "LPL Financial",
+    "first_seen": "2026-08-11",
+    "title": "Summer Intern 2027- Software Engineer",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
   },
   "8a79dd6733e48b78": {
     "company": "ByteDance",
@@ -2147,6 +2831,12 @@
     "title": "2027 Intern Software Engineer",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573"
   },
+  "8c83e07c7149e5b4": {
+    "company": "Northwood Space",
+    "first_seen": "2026-08-29",
+    "title": "Software Engineering Intern (2027 Sum",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/ce3d4b73-461e-4128-a6f1-f933897e8119"
+  },
   "8cd148d12292fcc7": {
     "company": "Microsoft",
     "first_seen": "2026-07-06",
@@ -2164,6 +2854,12 @@
     "first_seen": "2026-08-03",
     "title": "Software Engineering Intern (HIL) - F",
     "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf"
+  },
+  "8dafee95d3a477ba": {
+    "company": "Notion",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
   },
   "8dc08eac954aa0cb": {
     "company": "IMC Trading",
@@ -2189,6 +2885,12 @@
     "title": "Software Engineer, Internship - Defense Tech",
     "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
   },
+  "9009650ed6b868f0": {
+    "company": "Zip",
+    "first_seen": "2026-08-25",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
+  },
   "90561133dc22647c": {
     "company": "Virtu Financial",
     "first_seen": "2026-07-30",
@@ -2206,6 +2908,12 @@
     "first_seen": "2026-08-04",
     "title": "Software Engineer Intern, Cloud & Distributed Backend",
     "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923"
+  },
+  "91909b45b4e52e03": {
+    "company": "Codeage",
+    "first_seen": "2026-08-11",
+    "title": "Web Developer Intern - WordPress and",
+    "url": "https://jobs.smartrecruiters.com/Codeage/743999669081604"
   },
   "91ee3e970946fa06": {
     "company": "Centerfield",
@@ -2225,11 +2933,23 @@
     "title": "Software Engineering Intern, JAX",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745"
   },
+  "92cd9122bb6f7a08": {
+    "company": "Brunswick",
+    "first_seen": "2026-08-24",
+    "title": "Software Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316"
+  },
   "92ce55e250d11b29": {
     "company": "Verkada",
     "first_seen": "2026-06-26",
     "title": "AI Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5117760007"
+  },
+  "93095c4471fa73af": {
+    "company": "American Express",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"
   },
   "9333e27985b703a0": {
     "company": "ByteDance",
@@ -2255,6 +2975,12 @@
     "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
     "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
   },
+  "9448a005afc0ef1d": {
+    "company": "Teledyne",
+    "first_seen": "2026-08-13",
+    "title": "NHRC Software Engineering Internship",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
+  },
   "94b2e634c9866074": {
     "company": "Rivian and Volkswagen Group Technologies",
     "first_seen": "2026-06-26",
@@ -2267,11 +2993,35 @@
     "title": "Systems Engineering Intern - Mechanic",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027---Returning-Students_R5030177-1"
   },
+  "95437f96286db7ad": {
+    "company": "Verkada",
+    "first_seen": "2026-08-25",
+    "title": "Security Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
+  },
+  "9550bdd7eb84042d": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-17",
+    "title": "Machine Learning Engineer Intern (AML",
+    "url": "https://joinbytedance.com/search/7672382828525832501"
+  },
+  "957a49043b32891c": {
+    "company": "AMD",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.amd.com/careers-home/jobs/91180"
+  },
   "95a0fafa09da4230": {
     "company": "ByteDance",
     "first_seen": "2026-07-06",
     "title": "Machine Learning Engineer Intern (Glo",
     "url": "https://joinbytedance.com/search/7535951608832657682"
+  },
+  "9609183f2987f970": {
+    "company": "Palantir",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineer, Internship - Produ",
+    "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
   },
   "9627fd197515f590": {
     "company": "GE Aerospace",
@@ -2291,6 +3041,12 @@
     "title": "Campus Quantitative Trader (Intern)",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371"
   },
+  "97a30a0f0bd4c1b8": {
+    "company": "Humana",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, CenterWell and Humana Military",
+    "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1"
+  },
   "97abe84a43369b29": {
     "company": "Samsara",
     "first_seen": "2026-08-04",
@@ -2302,6 +3058,12 @@
     "first_seen": "2026-07-01",
     "title": "Quantitative Research Intern (PhD) - Summer 2027",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101"
+  },
+  "98746be8bec9a9f6": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-17",
+    "title": "Systems Engineering Co-op - Electrica",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Fall-2027_R5030143-1"
   },
   "999559c816a4b50e": {
     "company": "ByteDance",
@@ -2387,6 +3149,12 @@
     "title": "Software Engineer Intern, Invoicing &",
     "url": "https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612/application"
   },
+  "9df2b6ff4cd45957": {
+    "company": "Leidos",
+    "first_seen": "2026-08-27",
+    "title": "Software Developer Co-op",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
+  },
   "9dfc010890c5d3ce": {
     "company": "Palantir",
     "first_seen": "2026-06-26",
@@ -2399,11 +3167,29 @@
     "title": "Software Development Intern",
     "url": "https://job-boards.greenhouse.io/iherb/jobs/7776154003"
   },
+  "9f043814e0c8c740": {
+    "company": "Atoms",
+    "first_seen": "2026-08-21",
+    "title": "ML PhD Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002"
+  },
   "9f0f96992f6605f0": {
     "company": "HPR",
     "first_seen": "2026-08-03",
     "title": "Software Engineering Intern",
     "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"
+  },
+  "9f2aab48e974e069": {
+    "company": "Leidos",
+    "first_seen": "2026-08-27",
+    "title": "Systems Engineering Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Engineering-Intern_R-00190647"
+  },
+  "9f5739b60962dd7e": {
+    "company": "American Express",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084"
   },
   "9f67de11ee7b2cd4": {
     "company": "Virtu Financial",
@@ -2434,6 +3220,12 @@
     "first_seen": "2026-08-08",
     "title": "Software Development Engineer Intern",
     "url": "https://joinbytedance.com/search/7671147251943213317"
+  },
+  "a0b7839095e2618c": {
+    "company": "Google",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Intern, BS, Summ",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382"
   },
   "a0c6527cb098794b": {
     "company": "Pebl",
@@ -2489,11 +3281,29 @@
     "title": "Software Engineer Intern, Database Engineering",
     "url": "https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026"
   },
+  "a29e0c2ee51a36d2": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-08-12",
+    "title": "2027 Intern Software Engineer",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"
+  },
+  "a2abdd69ed347b49": {
+    "company": "Google",
+    "first_seen": "2026-08-24",
+    "title": "Software Engineering Intern, PhD, Sum",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+  },
   "a2fc69bcafb21b57": {
     "company": "Atomic Semi",
     "first_seen": "2026-07-27",
     "title": "Infrastructure Software Engineering Intern",
     "url": "https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true"
+  },
+  "a32f7de072f97725": {
+    "company": "CACI",
+    "first_seen": "2026-08-31",
+    "title": "Embedded Software Engineering Co-op -",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368"
   },
   "a338bda3dfbd46b6": {
     "company": "VITAL LYFE",
@@ -2506,6 +3316,12 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineering Intern, Fab",
     "url": "https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5"
+  },
+  "a3b9ba50cde95616": {
+    "company": "Microsoft",
+    "first_seen": "2026-08-25",
+    "title": "AI Software Engineering Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
   },
   "a446680e5a9fe375": {
     "company": "Nokia",
@@ -2525,11 +3341,29 @@
     "title": "Full Stack Engineer Intern",
     "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40"
   },
+  "a540a56da5996a4c": {
+    "company": "The Nuclear Company",
+    "first_seen": "2026-08-19",
+    "title": "Summer 2027 Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
+  },
   "a5d415078fc86a4c": {
     "company": "GDIT",
     "first_seen": "2026-08-05",
     "title": "Summer 2027 Software Developer Intern",
     "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
+  },
+  "a5f0c7dcf5142771": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-14",
+    "title": "Backend Development Engineer Intern (",
+    "url": "https://joinbytedance.com/search/7668489218234157365"
+  },
+  "a6592ceecfc48ecd": {
+    "company": "Figma",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004"
   },
   "a68882ec1c95868e": {
     "company": "Base Power",
@@ -2537,17 +3371,41 @@
     "title": "Software Engineering Intern",
     "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application"
   },
+  "a6fb1efc439b8a70": {
+    "company": "Stripe",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineer, Intern (Summer or",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745"
+  },
+  "a772d96aef715b3b": {
+    "company": "Verkada",
+    "first_seen": "2026-08-25",
+    "title": "Embedded Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
+  },
   "a79c16b98db0b2f5": {
     "company": "Daimler Truck",
     "first_seen": "2026-06-26",
     "title": "Manufacturing Systems Engineering Co-op",
     "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Byesville-OH-US/Manufacturing-Systems-Engineering-Co-op_DT-18529"
   },
+  "a7a612d738fde3d8": {
+    "company": "Palantir",
+    "first_seen": "2026-08-29",
+    "title": "Software Engineer, Internship - Infra",
+    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
+  },
   "a7f341a33e361a84": {
     "company": "IMC Trading",
     "first_seen": "2026-07-01",
     "title": "Quantitative Research Intern (BS/MS)",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101"
+  },
+  "a81a36954aa17cab": {
+    "company": "Ambarella",
+    "first_seen": "2026-08-27",
+    "title": "Software Development Engineer Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1"
   },
   "a886563ba2fbdb20": {
     "company": "Virtu Financial",
@@ -2561,11 +3419,29 @@
     "title": "Robotics - Software Development Engineer Intern/Co-op",
     "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
   },
+  "a8e2284f3d3af243": {
+    "company": "Ellipsis Labs",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineer - 2027 Interns",
+    "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849"
+  },
+  "a8f557a424df0c8f": {
+    "company": "Stripe",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineer, Intern ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130807"
+  },
   "a954e42ae1a95bae": {
     "company": "Northrop Grumman",
     "first_seen": "2026-08-07",
     "title": "2027 Intern Software Engineer",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395"
+  },
+  "a9595479197fa9c6": {
+    "company": "Verition Fund Management LLC",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu"
   },
   "a96013ccf54bbce3": {
     "company": "GDIT",
@@ -2578,6 +3454,18 @@
     "first_seen": "2026-06-26",
     "title": "Software Engineer Internship, Android ",
     "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b"
+  },
+  "ab1f4e1f7d9877ef": {
+    "company": "Palo Alto Networks",
+    "first_seen": "2026-08-12",
+    "title": "Intern - Software Engineer",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011603"
+  },
+  "ab456984e9fb6e7c": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-17",
+    "title": "Systems Engineering Co-op - Electrica",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Fall-2027_R5030141-1"
   },
   "ad368c008ee29309": {
     "company": "Magna",
@@ -2603,17 +3491,53 @@
     "title": "Software Engineer Intern, C++",
     "url": "https://akunacapital.com/careers/job/8018847/?gh_jid=8018847"
   },
+  "ae07b1d5ec91136a": {
+    "company": "PIMCO",
+    "first_seen": "2026-08-20",
+    "title": "2027 Summer Intern – Trading Analyst, US",
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763"
+  },
   "ae8abe41121dd43d": {
     "company": "ByteDance",
     "first_seen": "2026-07-06",
     "title": "Machine Learning Engineer Intern (Glo",
     "url": "https://joinbytedance.com/search/7535953226975054098"
   },
+  "aeaa19f9606df139": {
+    "company": "Verkada",
+    "first_seen": "2026-08-25",
+    "title": "Frontend Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
+  },
+  "af1438e529ce7ef7": {
+    "company": "Teledyne Technologies Incorporated",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
+  },
+  "af18b054595dd2f9": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-08-31",
+    "title": "2027 Systems Engineering Intern- Roy UT",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475"
+  },
   "af350e87898e5d5f": {
     "company": "Rakuten International",
     "first_seen": "2026-07-10",
     "title": "Software Engineer Intern",
     "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171"
+  },
+  "af49b4f2dde554b6": {
+    "company": "Palantir",
+    "first_seen": "2026-08-14",
+    "title": "Software Engineer, Internship - Defen",
+    "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
+  },
+  "af9a52c9a685a9ab": {
+    "company": "Salesforce",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineering Intern - Future",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
   },
   "afb325fd3ce6ae75": {
     "company": "TikTok",
@@ -2627,6 +3551,12 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90"
   },
+  "b056d4602a68a2b8": {
+    "company": "Motorola Solutions",
+    "first_seen": "2026-08-24",
+    "title": "Android Applications Developer Intern",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
+  },
   "b089ed8d31b29eda": {
     "company": "Verkada",
     "first_seen": "2026-06-26",
@@ -2639,11 +3569,23 @@
     "title": "Software Engineer Intern - Multiple T",
     "url": "https://www.tesla.com/careers/search/job/271372"
   },
+  "b27e780f69c8279b": {
+    "company": "Palantir",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineer, Internship - Produ",
+    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
+  },
   "b2a41804f28c6e79": {
     "company": "Rocket Lab",
     "first_seen": "2026-07-05",
     "title": "Systems Engineering Intern Fall 2026",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725384003"
+  },
+  "b2aab1001cecd907": {
+    "company": "Point72",
+    "first_seen": "2026-08-21",
+    "title": "Quantitative Developer Intern",
+    "url": "https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002"
   },
   "b2c6ca9a9caf184b": {
     "company": "Susquehanna",
@@ -2687,6 +3629,12 @@
     "title": "Software Engineer Intern",
     "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"
   },
+  "b4a134bf17ef779a": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-18",
+    "title": "Software Engineering Intern, NCCL - 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645"
+  },
   "b549986e32bd3e49": {
     "company": "ByteDance",
     "first_seen": "2026-07-06",
@@ -2717,6 +3665,12 @@
     "title": "AI/ML Engineering Co-op - Fall 2026",
     "url": "https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Fall-2026_328403"
   },
+  "b74d801b023fc567": {
+    "company": "AMD",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.amd.com/careers-home/jobs/90947"
+  },
   "b779ec38b4fa5683": {
     "company": "Citadel Securities",
     "first_seen": "2026-07-01",
@@ -2734,6 +3688,12 @@
     "first_seen": "2026-07-06",
     "title": "Quantitative Developer Intern",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334"
+  },
+  "b818d37d5fa60f51": {
+    "company": "Leidos",
+    "first_seen": "2026-08-27",
+    "title": "Software Engineering & AI Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648"
   },
   "b8573dba31750073": {
     "company": "Clarity Innovations",
@@ -2765,11 +3725,23 @@
     "title": "Software Engineer, AI Platform - Intern",
     "url": "https://nuro.ai/careersitem?gh_jid=7351061"
   },
+  "b93d6c674e54a610": {
+    "company": "Crowe",
+    "first_seen": "2026-08-21",
+    "title": "Data Analytics Developer Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041"
+  },
   "b968f242a526e891": {
     "company": "ACI Worldwide",
     "first_seen": "2026-06-26",
     "title": "Software Engineering Intern",
     "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500"
+  },
+  "b98a5801de816743": {
+    "company": "Human Computer Lab",
+    "first_seen": "2026-08-19",
+    "title": "Intern - Software/ML Engineer",
+    "url": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705"
   },
   "ba7e35e75f4b5405": {
     "company": "NVIDIA",
@@ -2800,6 +3772,12 @@
     "first_seen": "2026-06-26",
     "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
     "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
+  },
+  "bc992ec7b80f4fbb": {
+    "company": "AMD",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Co-op",
+    "url": "https://careers.amd.com/careers-home/jobs/91176"
   },
   "bc9ba0e697d477b3": {
     "company": "Tesla",
@@ -2867,11 +3845,23 @@
     "title": "Part-time Intern - AI Developer",
     "url": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Part-time-Intern---AI-Developer_R0000376582"
   },
+  "bdfcc634b9e5b723": {
+    "company": "Ambarella",
+    "first_seen": "2026-08-27",
+    "title": "Software Engineer Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363"
+  },
   "be1e6eab1444fc46": {
     "company": "Apple",
     "first_seen": "2026-07-05",
     "title": "Software Engineering Masters Internships",
     "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships"
+  },
+  "be4c517954627fb2": {
+    "company": "The Nuclear Company",
+    "first_seen": "2026-08-19",
+    "title": "Fall 2026 AI/ML Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008"
   },
   "bf1294652df7a7ee": {
     "company": "TikTok",
@@ -2879,11 +3869,29 @@
     "title": "Machine Learning Engineer Intern - Gl",
     "url": "https://lifeattiktok.com/search/7527077153591675154"
   },
+  "bfb324f5328afe30": {
+    "company": "Analog Devices",
+    "first_seen": "2026-08-29",
+    "title": "AI/ML Engineer Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579"
+  },
   "bfc3a21a67ef5190": {
     "company": "RTX",
     "first_seen": "2026-08-07",
     "title": "Software Engineering Intern (Summer 2",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033"
+  },
+  "bffe707dd8ee16d6": {
+    "company": "Freeform",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003"
+  },
+  "c001d35384dbbc7e": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-27",
+    "title": "Developer Technology Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122"
   },
   "c04197755287ae4b": {
     "company": "Tesla",
@@ -2896,6 +3904,12 @@
     "first_seen": "2026-06-26",
     "title": "Developer Internship",
     "url": "https://job-boards.greenhouse.io/scm/jobs/721888"
+  },
+  "c14479d45edfabd3": {
+    "company": "Palantir",
+    "first_seen": "2026-08-29",
+    "title": "Software Engineer, Internship - Infra",
+    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
   },
   "c1748f0082450c77": {
     "company": "NVIDIA",
@@ -3005,6 +4019,12 @@
     "title": "Software Engineering Intern",
     "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672"
   },
+  "c4fc0bf6f7cc1c2f": {
+    "company": "Nokia",
+    "first_seen": "2026-08-25",
+    "title": "Deepfield Software Engineer Co-op",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908"
+  },
   "c50a7946ea35bb90": {
     "company": "DRW",
     "first_seen": "2026-07-31",
@@ -3035,11 +4055,23 @@
     "title": "Software Engineer Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707"
   },
+  "c5a02ab0b7094568": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-19",
+    "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
+  },
   "c64aa999a5de0698": {
     "company": "Tenstorrent",
     "first_seen": "2026-07-27",
     "title": "Software Engineering Intern, Power Modeling & AI Tools",
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007"
+  },
+  "c6d34727ed233f79": {
+    "company": "Brunswick",
+    "first_seen": "2026-08-26",
+    "title": "Mercury Racing Systems Engineering Co-Op",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Racing-Systems-Engineering-Co-Op_JR-051290"
   },
   "c732a6e071ee28c6": {
     "company": "Motorola Solutions",
@@ -3059,6 +4091,12 @@
     "title": "AI software Engineer Project Intern (",
     "url": "https://lifeattiktok.com/position/7646621925436131637"
   },
+  "c89f3529fb80b56f": {
+    "company": "RTX",
+    "first_seen": "2026-08-27",
+    "title": "Software Engineering Intern (Summer 2",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801"
+  },
   "c9275873429af966": {
     "company": "BAE Systems",
     "first_seen": "2026-06-27",
@@ -3070,6 +4108,24 @@
     "first_seen": "2026-08-07",
     "title": "Software Engineer Coop",
     "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"
+  },
+  "c97f9a8a0ddbc60c": {
+    "company": "TransMarket Group",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007"
+  },
+  "c999a7bad4150645": {
+    "company": "Stripe",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745"
+  },
+  "c9c73b3a581e7fe1": {
+    "company": "Epic Games",
+    "first_seen": "2026-08-13",
+    "title": "Gameplay Programmer Intern",
+    "url": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004"
   },
   "ca203ac43c82e4f5": {
     "company": "ETHGlobal",
@@ -3119,11 +4175,29 @@
     "title": "Software Engineer Intern",
     "url": "https://www.workatastartup.com/jobs/94647"
   },
+  "cb65eb1b73631aba": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineer Intern (AML-Engine-",
+    "url": "https://joinbytedance.com/search/7672386983965100341"
+  },
   "cb6efea044504b0c": {
     "company": "Skydio",
     "first_seen": "2026-07-05",
     "title": "Middleware Software Engineer Intern -",
     "url": "https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/application"
+  },
+  "cb7373e99c01b870": {
+    "company": "Epic Games",
+    "first_seen": "2026-08-20",
+    "title": "Tools Programmer Intern",
+    "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004"
+  },
+  "cc1eb97ebd75dc9e": {
+    "company": "The Nuclear Company",
+    "first_seen": "2026-08-19",
+    "title": "Spring 2027 Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008"
   },
   "cc3a481fd34c9df8": {
     "company": "Tesla",
@@ -3251,6 +4325,12 @@
     "title": "Quantitative Trading Intern Summer 2027",
     "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166"
   },
+  "d342c6644bb620da": {
+    "company": "Adobe",
+    "first_seen": "2026-08-31",
+    "title": "2027 Intern - Machine Learning Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
+  },
   "d37e715bd51caf41": {
     "company": "Snowflake",
     "first_seen": "2026-06-26",
@@ -3275,6 +4355,12 @@
     "title": "Systems Engineering Intern - Electric",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027---Returning-Students_R5030173-1"
   },
+  "d3c25c1e499a493b": {
+    "company": "RTX",
+    "first_seen": "2026-08-27",
+    "title": "Software Engineering Intern (Summer 2",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
+  },
   "d4529eb29381bfbc": {
     "company": "Palantir",
     "first_seen": "2026-06-26",
@@ -3287,6 +4373,12 @@
     "title": "Software Engineer Intern (Fall 2026)",
     "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90"
   },
+  "d4d614dd9d641d49": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-18",
+    "title": "Systems Engineering Co-op - Mechanica",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Fall-2027_R5030145-1"
+  },
   "d51253c6f3c0057c": {
     "company": "TikTok",
     "first_seen": "2026-08-04",
@@ -3298,6 +4390,12 @@
     "first_seen": "2026-06-30",
     "title": "Quantitative Analyst Intern (New York",
     "url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890"
+  },
+  "d58f266a8f110e80": {
+    "company": "CACI",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineering Intern – Summer",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359"
   },
   "d5c2f9aedd647fcc": {
     "company": "TikTok",
@@ -3359,11 +4457,23 @@
     "title": "Software Engineer, Internship",
     "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
   },
+  "d8b88638a9309bef": {
+    "company": "Chicago Trading Company (Campus)",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineering Internship - Sum",
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"
+  },
   "d95fe67f7a4cd220": {
     "company": "LiveRamp",
     "first_seen": "2026-06-26",
     "title": "Software Engineer Intern, Pixel Serving",
     "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201"
+  },
+  "d9662abc735f7deb": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-08-22",
+    "title": "Systems Engineering Intern - Electric",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1"
   },
   "d96e5e15d259128e": {
     "company": "Hunt Oil Company",
@@ -3413,6 +4523,12 @@
     "title": "Software Engineering Intern - Fall 2026",
     "url": "https://caci.wd1.myworkdayjobs.com/External/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740"
   },
+  "db3ad81032002b9d": {
+    "company": "Hypercubic",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490"
+  },
   "db45bf966dbffb91": {
     "company": "Eulerity",
     "first_seen": "2026-07-10",
@@ -3449,6 +4565,18 @@
     "title": "Software Engineer Intern",
     "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107"
   },
+  "dcec129f160e25bb": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24",
+    "title": "Full Stack Software Engineer, Internal Systems",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002"
+  },
+  "dd11126a7d226b71": {
+    "company": "Palantir",
+    "first_seen": "2026-08-10",
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd"
+  },
   "dd831f7abae49f4d": {
     "company": "GDIT",
     "first_seen": "2026-08-05",
@@ -3479,11 +4607,23 @@
     "title": "Systems Engineering Intern (New York)",
     "url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916"
   },
+  "de92c7db9680f894": {
+    "company": "Palantir",
+    "first_seen": "2026-08-16",
+    "title": "Software Engineer, Internship - Defen",
+    "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7"
+  },
   "dfb462610d4769cf": {
     "company": "fab2",
     "first_seen": "2026-07-24",
     "title": "Software Engineering Intern",
     "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true"
+  },
+  "dfb593776e06a291": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineer Intern (AML-Engine-",
+    "url": "https://joinbytedance.com/search/7671162985123907845"
   },
   "dfe21afdacd1e800": {
     "company": "Tesla",
@@ -3551,6 +4691,12 @@
     "title": "Quantitative Research Intern, Summer",
     "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614"
   },
+  "e13bcf71bd73c63e": {
+    "company": "Intel",
+    "first_seen": "2026-08-17",
+    "title": "Software Development Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1"
+  },
   "e1be00dfd2e4a0ca": {
     "company": "Jump Trading",
     "first_seen": "2026-07-09",
@@ -3569,11 +4715,23 @@
     "title": "Backend Software Engineer Intern - Me",
     "url": "https://lifeattiktok.com/search/7538301580093720840"
   },
+  "e279f28c1e9e969f": {
+    "company": "TransMarket Group",
+    "first_seen": "2026-08-14",
+    "title": "Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007"
+  },
   "e2c1958972277896": {
     "company": "NVIDIA",
     "first_seen": "2026-08-05",
     "title": "Software Engineering Intern, Dynamo -",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
+  },
+  "e2c683009fe16d94": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-19",
+    "title": "NVIDIA 2027 Internships: Software Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
   },
   "e3081ac8ae0bf4ee": {
     "company": "Palo Alto Networks",
@@ -3616,6 +4774,12 @@
     "first_seen": "2026-07-10",
     "title": "Software Engineering Intern",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740"
+  },
+  "e54901d41abea613": {
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-08-21",
+    "title": "Quantitative Research, Asset Management Summer Analyst",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074"
   },
   "e61d04fa5b944fe1": {
     "company": "Akuna Capital",
@@ -3671,11 +4835,23 @@
     "title": "Software Engineer Intern - C++, Summe",
     "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
   },
+  "e9d828fa7b350fc1": {
+    "company": "Palo Alto Networks",
+    "first_seen": "2026-08-12",
+    "title": "Intern - Software Engineer",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011605"
+  },
   "e9f19589a490fedb": {
     "company": "ByteDance",
     "first_seen": "2026-07-07",
     "title": "Machine Learning Engineer Intern (E-c",
     "url": "https://joinbytedance.com/search/7535171166420453639"
+  },
+  "ea2e0ee9edb0932e": {
+    "company": "Leidos",
+    "first_seen": "2026-08-31",
+    "title": "SharePoint & Systems Engineering Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982"
   },
   "ea3fbbc2254a9f4d": {
     "company": "Northrop Grumman",
@@ -3695,11 +4871,29 @@
     "title": "Python Software Engineer Intern",
     "url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853"
   },
+  "ea88742024ed92e1": {
+    "company": "Notion",
+    "first_seen": "2026-08-14",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+  },
   "ebade8417e464d53": {
     "company": "Microsoft",
     "first_seen": "2026-08-04",
     "title": "Software Engineer Intern, Data Platform/Analytics",
     "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931"
+  },
+  "ebb6d708afe31d7a": {
+    "company": "Layup Parts",
+    "first_seen": "2026-08-11",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53"
+  },
+  "ec690b471b3de26f": {
+    "company": "Epic Games",
+    "first_seen": "2026-08-31",
+    "title": "Frontend Programmer Intern",
+    "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
   },
   "ecb2f0270088b84c": {
     "company": "TikTok",
@@ -3748,6 +4942,18 @@
     "first_seen": "2026-07-09",
     "title": "Campus Quantitative Researcher, UG/MS (Intern)",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648"
+  },
+  "ef9c9b760b10ffd8": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-08-26",
+    "title": "Software Engineering Co-Op, Spring 2027",
+    "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741"
+  },
+  "efeffc1a277ef64d": {
+    "company": "Stripe",
+    "first_seen": "2026-08-31",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745"
   },
   "f0299a5daa2c8092": {
     "company": "Agilent Technologies",
@@ -3820,6 +5026,24 @@
     "first_seen": "2026-06-26",
     "title": "Machine Learning Engineer Intern - Pl",
     "url": "https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply"
+  },
+  "f2a364132e7987df": {
+    "company": "Teledyne",
+    "first_seen": "2026-08-13",
+    "title": "NHRC Software Engineering Internship",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
+  },
+  "f30c0128bfe4dce6": {
+    "company": "Palantir",
+    "first_seen": "2026-08-19",
+    "title": "Software Engineer, Internship - Produ",
+    "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
+  },
+  "f3318215e23eaf16": {
+    "company": "Chicago Trading Company (Campus)",
+    "first_seen": "2026-08-19",
+    "title": "Quant Trading Internship - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005"
   },
   "f3434fe7d2a32e50": {
     "company": "Cotiviti",
@@ -3899,6 +5123,12 @@
     "title": "Software Engineering Internship 2027",
     "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
   },
+  "f92f0aa32f0403e9": {
+    "company": "Raytheon",
+    "first_seen": "2026-08-21",
+    "title": "Software Development Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635"
+  },
   "f93d921c26f67ffc": {
     "company": "Apple",
     "first_seen": "2026-06-26",
@@ -3910,6 +5140,12 @@
     "first_seen": "2026-07-24",
     "title": "Quantitative Technologist Intern, C++",
     "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002"
+  },
+  "f961234c52307dfa": {
+    "company": "American Express",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineer Intern, Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781"
   },
   "f9b7d71064cbe16d": {
     "company": "Belvedere Trading",
@@ -3923,11 +5159,29 @@
     "title": "Software Engineer Intern, Conversatio",
     "url": "https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44/application"
   },
+  "fa2d0c73bd2356d3": {
+    "company": "The Nuclear Company",
+    "first_seen": "2026-08-19",
+    "title": "Fall 2026 AI Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"
+  },
   "fa605e80ca50c0ef": {
     "company": "National Interstate Insurance",
     "first_seen": "2026-06-26",
     "title": "Business Analyst Intern",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Analyst-Intern_R9037"
+  },
+  "faa61da6da2299ec": {
+    "company": "Booz Allen Hamilton",
+    "first_seen": "2026-08-24",
+    "title": "Software Engineer - Intern",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
+  },
+  "fab08d60c366eb80": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-19",
+    "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
   },
   "fb924ae7c34c6aae": {
     "company": "Tessera Labs",
@@ -3940,6 +5194,12 @@
     "first_seen": "2026-07-03",
     "title": "Software Development Intern - GenAI",
     "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22401"
+  },
+  "fc3a5db54d086f67": {
+    "company": "Deepgram",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering- Internship (Fal",
+    "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1"
   },
   "fc6d7e32e79541d4": {
     "company": "Tesla",
@@ -3977,6 +5237,12 @@
     "title": "Software Engineering Intern IV, Summe",
     "url": "https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026"
   },
+  "fd9fcecf6f74c9d0": {
+    "company": "Figma",
+    "first_seen": "2026-08-10",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+  },
   "fda015749e930166": {
     "company": "Avanade",
     "first_seen": "2026-06-26",
@@ -3995,10 +5261,22 @@
     "title": "Software Engineering Intern",
     "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b"
   },
+  "feff2dc309c52fff": {
+    "company": "BP",
+    "first_seen": "2026-09-01",
+    "title": "Summer Internship – Supply, Trading,",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372"
+  },
   "ff1626caff8766a6": {
     "company": "Apple",
     "first_seen": "2026-06-26",
     "title": "Software Engineering Intern, Masters",
     "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships"
+  },
+  "ffc4f6a0755dcfe8": {
+    "company": "Datadog",
+    "first_seen": "2026-08-21",
+    "title": "Software Engineering Intern",
+    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
   }
 }
