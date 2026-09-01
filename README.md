@@ -17,7 +17,7 @@ sources (github lists + Greenhouse/Lever/Ashby/Workday)
    → commit updated state back to the repo
 ```
 
-> Discord sends when `DISCORD_WEBHOOK_URL` is set. SMS (Twilio) is supported but
+> Discord sends when `DISCORD_WEBHOOK_URL` (or a numbered webhook secret) is set. SMS (Twilio) is supported but
 > **off by default**; to turn it on later, see "Optional: SMS" below.
 
 ## What it tracks
@@ -80,6 +80,7 @@ and/or in a local `.env` (see `.env.example`). With none set, the bot still runs
 | `GMAIL_APP_PASSWORD` | 16-char [App Password](https://myaccount.google.com/apppasswords) (needs 2FA on) — **not** your login password |
 | `EMAIL_TO` | where the digest goes (comma-separate for multiple) |
 | `DISCORD_WEBHOOK_URL` | Discord channel webhook URL for posting the digest |
+| `DISCORD_WEBHOOK_URL_2`, `DISCORD_WEBHOOK_URL_3`, ... | Optional additional Discord channel webhook URLs |
 
 Email and Discord webhooks are free and need no other accounts beyond Gmail and
 Discord.
@@ -116,9 +117,10 @@ Notes:
 
 ## Discord webhook
 Discord is enabled by default in `config/settings.yaml`, but it only sends when
-`DISCORD_WEBHOOK_URL` exists. Create a webhook for the channel, add the URL as a
-GitHub Actions secret, and the scheduled workflow will post the same new-job
-digest there. Use `python -m src.main --no-discord` for a one-off run without it.
+at least one webhook secret exists. Create a webhook for each server/channel and
+add them as `DISCORD_WEBHOOK_URL`, `DISCORD_WEBHOOK_URL_2`, `DISCORD_WEBHOOK_URL_3`,
+etc. The scheduled workflow posts the same new-job digest to every configured
+webhook. Use `python -m src.main --no-discord` for a one-off run without it.
 
 ## Optional: SMS
 An SMS-nudge channel (`src/notify/sms.py`, via Twilio) ships dormant. To enable

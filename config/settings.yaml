@@ -39,7 +39,8 @@ sms:
   # don't send an SMS unless at least this many new jobs (avoids paying for tiny alerts)
   min_jobs: 1
 
-# Discord webhook digest. Add DISCORD_WEBHOOK_URL as a GitHub Actions secret.
+# Discord webhook digest. Add DISCORD_WEBHOOK_URL and optionally
+# DISCORD_WEBHOOK_URL_2, DISCORD_WEBHOOK_URL_3, etc. as GitHub Actions secrets.
 discord:
   enabled: true
   username: "internship bot"

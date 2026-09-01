@@ -62,6 +62,37 @@ def test_send_discord_skips_without_webhook():
     assert not D.send_discord([_job("Acme")], {}, {})
 
 
+def test_send_discord_posts_to_all_webhooks(monkeypatch):
+    calls = []
+
+    def fake_post(url, json, timeout):
+        calls.append(url)
+
+        class Response:
+            status_code = 204
+            text = ""
+
+        return Response()
+
+    monkeypatch.setattr(D.requests, "post", fake_post)
+    monkeypatch.setattr(D, "build_bodies", lambda jobs, **kw: ["chunk-1", "chunk-2"])
+
+    assert D.send_discord(
+        [_job("Acme")],
+        {
+            "DISCORD_WEBHOOK_URL": "https://example.com/one",
+            "DISCORD_WEBHOOK_URL_2": "https://example.com/two",
+        },
+        {},
+    )
+    assert calls == [
+        "https://example.com/one",
+        "https://example.com/one",
+        "https://example.com/two",
+        "https://example.com/two",
+    ]
+
+
 def test_send_discord_uses_configured_username(monkeypatch):
     captured = {}
 

@@ -87,7 +87,7 @@ def run_test_notify() -> int:
         sent_sms = sms_notify.send_sms(f"[TEST] {body}", secrets)
     discord_cfg = settings.get("discord", {})
     sent_discord = False
-    if discord_cfg.get("enabled", True) and secrets.get("DISCORD_WEBHOOK_URL"):
+    if discord_cfg.get("enabled", True) and discord_notify.webhook_urls(secrets):
         sent_discord = discord_notify.send_discord([sample], secrets, discord_cfg)
     log.info("test-notify: email=%s sms=%s discord=%s", sent_email, sent_sms, sent_discord)
     return 0 if (sent_email or sent_sms or sent_discord) else 1
@@ -147,7 +147,7 @@ def run(
         if do_sms and sms_cfg.get("enabled", True) and len(fresh) >= sms_cfg.get("min_jobs", 1):
             body = sms_notify.build_body(len(fresh), sms_cfg.get("template", "{n} new internships"))
             sms_notify.send_sms(body, secrets)
-        if do_discord and discord_cfg.get("enabled", True) and secrets.get("DISCORD_WEBHOOK_URL"):
+        if do_discord and discord_cfg.get("enabled", True) and discord_notify.webhook_urls(secrets):
             discord_notify.send_discord(fresh, secrets, discord_cfg)
 
     # Persist: record the new jobs as seen, prune old entries.

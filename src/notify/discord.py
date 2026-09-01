@@ -97,11 +97,29 @@ def _int_cfg(cfg: dict[str, Any], key: str, default: int) -> int:
         return default
 
 
+def webhook_urls(secrets: dict[str, str]) -> list[str]:
+    """Return configured Discord webhooks in numeric secret-name order."""
+    urls: list[str] = []
+    if secrets.get("DISCORD_WEBHOOK_URL"):
+        urls.append(secrets["DISCORD_WEBHOOK_URL"])
+
+    numbered = sorted(
+        (
+            (key, value)
+            for key, value in secrets.items()
+            if re.fullmatch(r"DISCORD_WEBHOOK_URL_\d+", key) and value
+        ),
+        key=lambda item: int(item[0].rsplit("_", 1)[1]),
+    )
+    urls.extend(value for _, value in numbered)
+    return urls
+
+
 def send_discord(jobs: list[Job], secrets: dict[str, str], discord_cfg: dict[str, Any]) -> bool:
-    """Send the digest to a Discord channel webhook."""
-    webhook_url = secrets.get("DISCORD_WEBHOOK_URL")
-    if not webhook_url:
-        log.warning("discord skipped: DISCORD_WEBHOOK_URL not set")
+    """Send the digest to every configured Discord channel webhook."""
+    webhook_urls_configured = webhook_urls(secrets)
+    if not webhook_urls_configured:
+        log.warning("discord skipped: no DISCORD_WEBHOOK_URL[_N] secret set")
         return False
     if not jobs:
         log.info("discord skipped: no jobs to send")
@@ -113,34 +131,48 @@ def send_discord(jobs: list[Job], secrets: dict[str, str], discord_cfg: dict[str
     username = discord_cfg.get("username")
     sent_any = False
 
-    for idx, body in enumerate(bodies, 1):
-        payload: dict[str, Any] = {
-            "content": body,
-            "allowed_mentions": {"parse": []},
-            "flags": SUPPRESS_EMBEDS_FLAG,
-        }
-        if username:
-            payload["username"] = str(username)
+    for webhook_index, webhook_url in enumerate(webhook_urls_configured, 1):
+        for chunk_index, body in enumerate(bodies, 1):
+            payload: dict[str, Any] = {
+                "content": body,
+                "allowed_mentions": {"parse": []},
+                "flags": SUPPRESS_EMBEDS_FLAG,
+            }
+            if username:
+                payload["username"] = str(username)
 
-        try:
-            response = requests.post(webhook_url, json=payload, timeout=timeout)
-        except requests.RequestException as exc:
-            log.error("discord send failed on chunk %d/%d: %s", idx, len(bodies), exc)
-            return False
+            try:
+                response = requests.post(webhook_url, json=payload, timeout=timeout)
+            except requests.RequestException as exc:
+                log.error(
+                    "discord send failed for webhook %d/%d on chunk %d/%d: %s",
+                    webhook_index,
+                    len(webhook_urls_configured),
+                    chunk_index,
+                    len(bodies),
+                    exc,
+                )
+                continue
 
-        if 200 <= response.status_code < 300:
-            sent_any = True
-            continue
+            if 200 <= response.status_code < 300:
+                sent_any = True
+                continue
 
-        log.error(
-            "discord send failed on chunk %d/%d: HTTP %s %s",
-            idx,
-            len(bodies),
-            response.status_code,
-            response.text[:300],
-        )
-        return False
+            log.error(
+                "discord send failed for webhook %d/%d on chunk %d/%d: HTTP %s %s",
+                webhook_index,
+                len(webhook_urls_configured),
+                chunk_index,
+                len(bodies),
+                response.status_code,
+                response.text[:300],
+            )
 
     if sent_any:
-        log.info("discord sent (%d jobs in %d chunk(s))", len(jobs), len(bodies))
+        log.info(
+            "discord sent (%d jobs in %d chunk(s) to %d webhook(s))",
+            len(jobs),
+            len(bodies),
+            len(webhook_urls_configured),
+        )
     return sent_any

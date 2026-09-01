@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import re
 from functools import lru_cache
 from pathlib import Path
 from typing import Any
@@ -68,6 +69,13 @@ def secrets() -> dict[str, str]:
         "TWILIO_AUTH_TOKEN",
         "TWILIO_FROM",
         "SMS_TO",
-        "DISCORD_WEBHOOK_URL",
     ]
+    discord_keys = ["DISCORD_WEBHOOK_URL"]
+    discord_keys.extend(
+        sorted(
+            (key for key in os.environ if re.fullmatch(r"DISCORD_WEBHOOK_URL_\d+", key)),
+            key=lambda key: int(key.rsplit("_", 1)[1]),
+        )
+    )
+    keys.extend(discord_keys)
     return {k: os.environ.get(k, "") for k in keys}
